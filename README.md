@@ -1,5 +1,5 @@
-## Hi, I'm Rafnix
-![](https://raw.githubusercontent.com/rafnixg/rafnixg/master/rafnix_header.jpeg)
+## Hi, I'm Oscar!
+![](https://raw.githubusercontent.com/MrHyde1310/MrHyde1310/master/ruta1/FONDO1.png)
 
 
 
