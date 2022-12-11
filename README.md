@@ -4,33 +4,28 @@
 
 
 ```python
-class RafnixG:
+class MrHyde:
 
     def __init__(self):
-        self.username = 'rafnixg'
-        self.name = 'Rafnix Guzmán'
-        self.web = 'https://rafnixg.dev'
-        self.twitter = '@rafnixg'
+        self.username = 'MrHyde1310'
+        self.name = 'Oscar Cerdán'
+        self.web = '[(https://www.linkedin.com/in/oscar-cerdán-a91876191/)'
+        self.twitter = '@cerdanoscar'
         self.code = {
-            'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Svelte', 'Boostrap', 'TailWind'],
-            'backend': ['Python', 'PHP', 'Flask', 'Django', 'Laravel', 'NodeJS', 'Odoo'],
-            'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
-            'devops': ['Docker', 'Nginx', 'Jenkins', 'GitHub Actions', 'AWS', 'Heroku'],
+            'backend': ['Python', 'R', ],
+            'database': ['STATA'', 'MySQL'],
             'tools': ['GIT', 'GitHub', 'GitLab', 'Pandas', 'Jupyter notebook', 'SQLAlchemy', 'Redis', 'Celery'],
-            'misc': ['Firebase', 'TDD', 'SCRUM', 'SOLID', 'GNU/Linux']
         }
-        self.architecture = ['SPA', 'MVC', 'Serverless', 'microservices']
-
     def __str__(self):
         return self.name
 
 
 if __name__ == '__main__':
-    me = RafnixG()
+    me = MrHyde()
 
 
 ```
 ## Get in touch
 
-- Twitter: https://twitter.com/rafnixg
-- Personal Site: https://rafnixg.dev
+- IG:https://www.instagram.com/cerdanoscar/
+- LinkedIn: https://www.linkedin.com/in/oscar-cerdán-a91876191/
